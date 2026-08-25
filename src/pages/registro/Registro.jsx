@@ -9,6 +9,14 @@ function Registro() {
   return (
     <>
     <h1>Registro</h1>
+    <form action="">
+      <label htmlFor="">Nombre:
+      <input type="text" name="" id="" />
+      </label> <br />
+      <label htmlFor="">Apellido:
+      <input type="text" name="" id="" />
+      </label>
+    </form>
     </>
   )
 }
